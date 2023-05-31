@@ -1,0 +1,19 @@
+.htaccess
+/config.php
+/php.ini
+/robots.txt
+admin/config.php
+
+!index.html
+
+download/
+## Image Cache Files
+/image/*
+
+
+## System Cache Files
+/system/*
+/extension/*
+
+/system/storage/*
+
